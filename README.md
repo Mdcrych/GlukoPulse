@@ -167,16 +167,6 @@ flutter build apk --release        # сборка релиза
 
 ---
 
-## 🤝 Вклад в проект
-
-1. Создайте [Issue](https://github.com/Mdcrych/GlukoPulse/issues) с описанием проблемы или идеи
-2. Fork репозитория
-3. Создайте ветку: `git checkout -b feature/my-feature`
-4. Зафиксируйте изменения: `git commit -m 'feat: add my feature'`
-5. Push: `git push origin feature/my-feature`
-6. Откройте Pull Request
-
----
 
 ## 👤 Автор
 
