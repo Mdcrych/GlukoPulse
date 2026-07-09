@@ -178,12 +178,6 @@ flutter build apk --release        # сборка релиза
 
 ---
 
-## 📄 Лицензия
-
-Распространяется под лицензией **MIT**. Подробнее см. в файле [LICENSE](LICENSE).
-
----
-
 ## 👤 Автор
 
 **Михаил Рычагов** - 2026 · GitHub: [@Mdcrych](https://github.com/Mdcrych)
