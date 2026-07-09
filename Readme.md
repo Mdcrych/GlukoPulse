@@ -198,11 +198,4 @@ GlukoPulse можно описать так:
 ## Автор
 
 **Михаил Рычагов**  
-QA Engineer / Software Developer  
-Capstone / diploma project: GlukoPulse
-
-***
-
-## Лицензия
-
-Лицензию можно добавить отдельно после выбора модели распространения проекта.
+QA Engineer / Software Developer 
